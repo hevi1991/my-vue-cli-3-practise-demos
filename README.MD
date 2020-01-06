@@ -3,13 +3,21 @@
 ## 常用命令
 
 [X] vue create
+
 [X] vue ui
+
 [X] vue serve
+
 [X] vue build 
+
 [X] plugin and preset
+
 [X] vue-cli-service serve
+
 [X] vue-cli-service build (如果不考虑兼容性，可以传入 --modern 减少编译后的项目体积)
+
 [X] vue-cli-service inspect
+
 
 ## 配置项
 
